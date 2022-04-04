@@ -1,10 +1,7 @@
 ---
 layout: default
-title: OpenAMPD
+title: Bibliography
 ---
-
-[Home](index.md)  
-[About](about.md)
 
 # Bibliography
 
