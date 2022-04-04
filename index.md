@@ -5,7 +5,7 @@ layout: default
 [Bibliography](biblio.md)  
 [About](about.md)
 
-## OpenAMPD
+# OpenAMPD
 
 The **Open Archive of Middle Persian Documents** (OpenAMPD) is an online archive and digital edition of Middle Persian documents preserved in collections around the world. Its goal is to make transcriptions, translations, and images of the texts available to the wider public, and in doing so to encourage and facilitate further research on these valuable and understudied texts. OpenAMPD makes use of TEI.  
 

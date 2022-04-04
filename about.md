@@ -1,7 +1,6 @@
 ---
-layout: page
-title: "About"
-permalink: /
+layout: default
+title: OpenAMPD | About
 ---
 
 # About 

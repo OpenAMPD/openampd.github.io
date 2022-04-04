@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bibliographies
+title: OpenAMPD | Bibliographies
 ---
 # Bibliography
 
