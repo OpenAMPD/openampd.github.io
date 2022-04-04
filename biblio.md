@@ -1,6 +1,7 @@
-layout: page
-title: "Bibliographies"
-permalink: /
+---
+layout: default
+title: Bibliographies
+---
 # Bibliography
 
 ## Main Archive Documents
