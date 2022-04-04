@@ -4,5 +4,5 @@ The **Open Archive of Middle Persian Documents** (OpenAMPD) is an online archive
 
 The core of this project is the 300+ Middle Persian documents held at UC Berkeley in the Bancroft Library (sometimes referred to as the “Pahlavi Archive”), but will also include documents held in other collections which are likely to belong to the same original find. It is our goal that OpenAMPD will also eventually be extended to the Middle Persian documents in further collections around the world and also include the Middle Persian papyri and ostraca.  
 
-[Bibliography](biblio.md)
-[About page](about.md).
+[Bibliography](biblio.md)   
+[About](about.md)
