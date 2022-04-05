@@ -1,9 +1,2 @@
-theme: minima
-title: OpenAMPD
-description: >- # this means to ignore newlines until "baseurl:"
-  An open archive for Middle Persian documents
-
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: OpenAMPD
-github_username:  OpenAMPD
+theme: jekyll-theme-cayman
+title: An open archive for Middle Persian documents
